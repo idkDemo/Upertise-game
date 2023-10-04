@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "/": "./developpement/1.UPERTISE/typescript-prototype",
+    "./": "./developpement/1.UPERTISE/typescript-prototype",
+    "becsy": "npm:@lastolivegames/becsy"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "version": "2",
+  "remote": {},
+  "npm": {
+    "specifiers": {
+      "@lastolivegames/becsy": "@lastolivegames/becsy@0.15.5"
+    },
+    "packages": {
+      "@lastolivegames/becsy@0.15.5": {
+        "integrity": "sha512-RZEL52er3eH+zpczz2xPyVIxVId+tx0pfTRxYjvE4Vi14plgHzqX7q+4TTJvJDmaxR9pdVjGwFnrY0Oe23fN7Q==",
+        "dependencies": {}
+      }
+    }
+  }
+}

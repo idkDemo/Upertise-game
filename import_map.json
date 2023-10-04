@@ -1,0 +1,7 @@
+{
+    "imports": {
+      "/deps": "./deps.ts",
+      "/src/": "./src/",
+      "becsy": "npm:@lastolivegames/becsy"
+    }
+  }
